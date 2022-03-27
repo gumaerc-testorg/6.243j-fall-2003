@@ -79,7 +79,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/hw5_6243_2003))
 ([PDF]({{< baseurl >}}/resources/ps5sol_6243_2003))
 {{< tdclose >}}
 {{< tdopen >}}
-hw5\_4\_6243\_2003.m ([M](./resolveuid/c399b34bb2ae6b9fa91bbd9efb4843e0))
+hw5\_4\_6243\_2003.m ([M]({{< baseurl >}}/resources/hw5_4_6243_2003))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +91,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/hw6_6243_2003))
 ([PDF]({{< baseurl >}}/resources/ps6sol_6243_2003))
 {{< tdclose >}}
 {{< tdopen >}}
-hw6\_3\_6243\_2003.m ([M](./resolveuid/9d12bfa0966d83559e4ea441959bef26))
+hw6\_3\_6243\_2003.m ([M]({{< baseurl >}}/resources/hw6_3_6243_2003))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/hw7_6243_2003))
 ([PDF]({{< baseurl >}}/resources/ps7sol_6243_2003))
 {{< tdclose >}}
 {{< tdopen >}}
-hw7\_1\_6243\_2003.m ([M](./resolveuid/e3a43d6b53618aeae6970cde3e1fc0ca))
+hw7\_1\_6243\_2003.m ([M]({{< baseurl >}}/resources/hw7_1_6243_2003))
 {{< tdclose >}}
 
 {{< trclose >}}
