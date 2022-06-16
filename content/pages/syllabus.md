@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: b1299d4e-b1ea-42d0-b1ea-0fc6511048b6
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -47,7 +50,7 @@ This course studies state-of-the-art methods for modeling, analysis, and design 
     *   Invariant Probability Density Functions
     *   Optimal Control and Dynamic Programming
 
-Prerequisite: [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011/) or an equivalent course.
+Prerequisite: [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011) or an equivalent course.
 
 Information Resources and Literature
 ------------------------------------
